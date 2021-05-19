@@ -1,4 +1,4 @@
-# vakcinacija_BG_opstine!
+# vakcinacija_BG_opstine
 Vizuelizacija broja vakcinisanih gradjana po beogradskim opstinama. 
 
 
