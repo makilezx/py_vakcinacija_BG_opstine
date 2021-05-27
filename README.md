@@ -1,7 +1,9 @@
 # vakcinacija_BG_opstine
 Vizuelizacija broja vakcinisanih gradjana po beogradskim opstinama. Za vizuelizaciju je koriscena Python biblioteka Folium.
 
-Izvori: CINS/IZJZ Batut
+[NBviewer](https://nbviewer.jupyter.org/github/makilezx/py_vakcinacija_BG_opstine/blob/main/vakcinacija_viz.ipynb)
+
+Izvori: mediji
 
 Primer:
 
